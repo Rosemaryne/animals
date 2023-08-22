@@ -52,4 +52,4 @@ async def duck(ctx):
     image_url = get_dog_image_url()
     await ctx.send(image_url)
 
-bot.run('MTEzNDE0OTc4ODc2MjM3NDIzNQ.G37zjT.in1HnOL5fSyof_vAWOuSUirm9WYKhkP3uOo6JQ')
+bot.run('')
